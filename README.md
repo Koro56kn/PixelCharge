@@ -1,3 +1,6 @@
+<img width="512" height="512" alt="IMG_6590" src="https://github.com/user-attachments/assets/95886b51-8685-475f-a386-473f82865bf4" />
+
+
 # Pixelいたわり充電
 
 
