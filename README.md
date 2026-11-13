@@ -1,3 +1,6 @@
+# Pixelいたわり充電
+
+
 Google Pixel に、Xperia の「いたわり充電（手動モード）」のような時間指定の充電制限を持たせるアプリです。
 指定した時刻から充電を 80% で止め、満充電目標時刻の 50 分前に制限を解除します。
 
@@ -51,4 +54,3 @@ adb shell pm grant jp.kr56.pixelcharge android.permission.WRITE_SECURE_SETTINGS
 
 通常のアプリと同じ手順でアンインストールできます。充電設定は Pixel の「充電の最適化」側に残るので、必要なら設定アプリから戻してください。
 
-# PixelCharge
