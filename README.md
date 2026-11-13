@@ -1,5 +1,3 @@
-[pixelcharge-README.md](https://github.com/user-attachments/files/34780265/pixelcharge-README.md)# Pixelいたわり充電
-
 Google Pixel に、Xperia の「いたわり充電（手動モード）」のような時間指定の充電制限を持たせるアプリです。
 指定した時刻から充電を 80% で止め、満充電目標時刻の 50 分前に制限を解除します。
 
@@ -27,7 +25,7 @@ Google Pixel に、Xperia の「いたわり充電（手動モード）」のよ
 
 ## 初回セットアップ（必須）
 
-このアプリは Pixel の充電設定を切り替えるため、**PC から ADB コマンドを 1 回だけ実行する**必要があります（USB デバッグを使用。root は不要です）。
+このアプリは Pixel の充電設定を切り替えるため、**PC から ADB コマンドを 1 回だけ実行する**必要があります（USB デバッグを使用。root は不要）。
 
 端末を PC に接続して、以下を実行してください。
 
