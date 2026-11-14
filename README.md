@@ -52,6 +52,8 @@ adb shell pm grant jp.kr56.pixelcharge android.permission.WRITE_SECURE_SETTINGS
 - ネットワーク権限はなく、データ収集は一切しません
 - 充電制御は Pixel 標準の「充電の最適化」の設定を切り替える方式です。OS アップデート等で Pixel 側の仕様が変わると動作しなくなる可能性があります
 - 時刻になっても切り替わらない場合は、バッテリー最適化の除外（「制限なし」）が効いているか確認してください
+- 現在、日本語のみ対応してます。(今後英語対応予定)
+- Currently, it only supports Japanese, but English support is planned for the future.
 
 ## アンインストール
 
